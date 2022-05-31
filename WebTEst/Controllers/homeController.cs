@@ -11,7 +11,7 @@ namespace WebTEst.Controllers
         // GET: home
         public ActionResult Index()  // testing
         {
-            return View(); //test1
+            return View(); //phoo test
         }
     }
 }
